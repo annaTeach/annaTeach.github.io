@@ -1,0 +1,12 @@
+.cont{
+  margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%;
+  flex-direction: row;
+  justify-content: flex-start;
+background-color: lightgrey;
+}
+
+body{
+    background-color: black;
+}
